@@ -1,0 +1,13 @@
+body {
+    background-image:url(download.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+.heading button {
+    float:right;
+    border:0px white solid;
+}
+.heading h3 {
+    display:inline;
+}
